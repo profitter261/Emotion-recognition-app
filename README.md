@@ -1,4 +1,4 @@
-# Facial-recognition-app
+# Emotion-recognition-app
 Developed a machine learning model to recognize human emotions from text inputs. Utilized Natural Language Processing techniques and trained classifiers to categorize emotions like joy, anger, sadness, fear, and surprise. Deployed using Streamlit for an interactive user interface.
 
 The Facial Recognition App is a lightweight yet powerful application designed to accurately identify and verify individuals using their facial features. Developed with Flask, this web-based application leverages the capabilities of TensorFlow and Keras for deep learning, enabling real-time face detection and recognition. With OpenCV handling image and video processing, the app can capture faces from live camera feeds or uploaded images. The front-end is seamlessly served using Flask routes, while Matplotlib and Pillow assist in visualizing and managing images effectively during training and testing phases.
