@@ -16,7 +16,7 @@ This application incorporates robust machine learning workflows using Scikit-Lea
 
 | Home/Login Page | Live Detection | Result Screen |
 |-----------------|----------------|----------------|
-| ![UI Screenshot 1](./WhatsApp%20Image%202025-03-17%20at%2011.24.18_4a319b56.jpg) | ![UI Screenshot 2](./WhatsApp%20Image%202025-03-17%20at%2011.19.32_038cd37b.jpg) | ![UI Screenshot 3](./image.png) |
+| ![UI Screenshot 1](https://github.com/profitter261/Emotion-recognition-app/blob/main/User%20interface%20images/Screenshot%202025-03-17%20111548.png) | ![UI Screenshot 2](./WhatsApp%20Image%202025-03-17%20at%2011.19.32_038cd37b.jpg) | ![UI Screenshot 3](./image.png) |
 
 ## ⚙️ Requirements
 
