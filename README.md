@@ -7,7 +7,7 @@ This application incorporates robust machine learning workflows using Scikit-Lea
 
 ## features
 1) Real-time face detection using webcam
-2) Emotion detection capability (optional extension)
+2) Emotion detection capability
 3) Responsive UI built with Flask templates
 4) Integrated visualization for training results
 5) User-friendly interface with live feedback
