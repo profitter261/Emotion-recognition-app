@@ -57,14 +57,8 @@ Developed a fully functional real-time facial recognition web application.
 Integrated deep learning (TensorFlow) with OpenCV and Flask.
 Achieved over 90% recognition accuracy with custom-trained CNN.
 Enabled webcam-based live face recognition and UI display.
-Extended the application with emotion detection (optional).
+Extended the application with emotion detection.
 
 ## Conclusion
 
 This project demonstrates the power of combining computer vision and web development to build interactive and intelligent systems. By integrating machine learning with a lightweight web framework, the facial recognition app provides a scalable and user-friendly solution for authentication and security use-cases. It also sets the foundation for further enhancements like cloud deployment, database support, and multi-user management.
-
-
-
-
-
-
